@@ -1,5 +1,5 @@
 {
-  "name": "202309-w3ch3-abel-naharro",
+  "name": "202309-w3ch3-serafin-alferez",
   "version": "1.0.0",
   "description": "Week 3 - Challenge 2",
   "private": true,
@@ -16,7 +16,7 @@
     "sass": "sass scss:css -w --no-source-map"
   },
   "keywords": [],
-  "author": "Abel Naharro",
+  "author": "Serafin Alferez",
   "license": "ISC",
   "prettier": {
     "singleQuote": true
