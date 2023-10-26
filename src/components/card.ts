@@ -19,14 +19,12 @@ export class Card extends Component {
   }
 
   createTemplate() {
-    return `
-  <li>
+    return `<li>
       <p>ID: ${this.pet.id}</p>
       <p>Nombre: ${this.pet.name} Raza: ${this.pet.race}</p>
       <p>Dueño: ${this.pet.owner}</p>
       <p>Adoptado: ${this.pet.isAdopted}</p>
 
-    </li>
-`;
+    </li>`;
 }
 }
