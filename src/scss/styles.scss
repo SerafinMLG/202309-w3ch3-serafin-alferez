@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  font-size: rem;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-size: 1rem;
+}
