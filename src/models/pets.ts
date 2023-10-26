@@ -4,4 +4,5 @@ export type Pets = {
   race: string,
   isAdopted: boolean,
 	owner: string,
-	}
+	};
+  
